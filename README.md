@@ -152,7 +152,7 @@ RayTracer a été créé avec passion par :
 
 - [@RomainPanno](https://github.com/romainpanno)
 - [@BriseDesousa](https://github.com/KitetsuK)
-- [@AdilNouiri](https://github.com/Nabzilooo)
+- [@AdilNouiri](https://github.com/AdilNouiri)
 - [@AlexandreLagasse](https://github.com/alexandrelagasse)
 
 ## License
